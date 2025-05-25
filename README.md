@@ -64,7 +64,7 @@ nextwork-web-project/
 
 ## 👤 Author
 
-**Your Name**  
+**VENKATA SAI MOHAN YEDLA**  
 📧 [saimohan.yedla@gmail.com](mailto:saimohan.yedla@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/venkata-sai-mohan-yedla/) | [GitHub](https://github.com/sai460)
 
